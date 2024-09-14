@@ -19,8 +19,7 @@ for the project, useful for avoiding conflicting library versions.
 project’s virtual environment.
 - <b>HPS results:</b> A folder to save the models’ hyperparameter search results for 
 each model addressed.
-- <b>Toolkit:</b> A python package developed for the project that will be discussed 
-under the custom package subsection.
+- <b>Toolkit:</b> A python package developed for the project.
 - <b>Govdocs1:</b> A folder containing the dataset to be used in the project, consisting 
 of files of mixed types.
 - <b>Systems 1-6:</b> Separate notebooks that focus on model training and evaluation, 
